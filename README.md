@@ -6,11 +6,6 @@
   An interactive web application to visualize popular sorting algorithms.
 </h4>
 
-<p align="center">
-  <a href="YOUR_LIVE_DEMO_LINK" target="_blank">🕹 Try it Now!</a>
-</p>
-
-![Sorting Visualizer](./content/sav-demo.gif)
 
 ## ✨ Features
 
